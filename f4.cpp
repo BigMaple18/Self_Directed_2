@@ -4,6 +4,7 @@
 * By: Luke Dennis
 * Date: October 13th, 2023
 * Description: This code will take inputted numbers and tell the user smallest one using arrays AND will display which index they inputted it at. 
+* Student Number: 8696761
 */
 
 #include <stdio.h>
