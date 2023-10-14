@@ -32,7 +32,7 @@ int main()
             indexNumber = count;
         }
     }
-
+    /* extra comment clarifying code, up above is the inputs being taken and the smallest array being found*/
     printf("The lowest value is %d at index %d\n", small, indexNumber);
 
     return 0;
